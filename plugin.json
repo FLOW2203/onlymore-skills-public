@@ -1,0 +1,7 @@
+{
+  "name": "onlymore-skills",
+  "version": "0.1.0",
+  "description": "ONLYMORE Group methodology skills (public layer)",
+  "author": "ONLYMORE Group",
+  "skills_dir": "skills"
+}
