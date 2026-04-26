@@ -1,0 +1,24 @@
+{
+  "name": "onlymore-skills",
+  "owner": {
+    "name": "ONLYMORE Group",
+    "email": "onlymore2024@gmail.com",
+    "url": "https://onlymore.group"
+  },
+  "metadata": {
+    "description": "Public methodology skills for ONLYMORE Group.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "onlymore-skills",
+      "source": ".",
+      "description": "Bundle of all public ONLYMORE skills.",
+      "version": "0.1.0",
+      "author": { "name": "ONLYMORE Group" },
+      "category": "methodology",
+      "tags": ["onlymore", "skills", "methodology"],
+      "strict": false
+    }
+  ]
+}
